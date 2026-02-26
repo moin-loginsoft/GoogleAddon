@@ -181,7 +181,7 @@ To verify the installation:
 
 ![googlescripts_overview](images/addon-click.png)
 
-3. The VMRay Report Phishing Add-on should be visible. Users within your domain will now see the VMRay icon in their Gmail side panel.
+3. The VMRay Report Phishing Add-on should be visible. Users within your domain will now see the report phishing icon in their Gmail side panel on the web, as well as within the Gmail mobile app.
 
 ![googlescripts_overview](images/success-install.png)
 ![googlescripts_overview](images/confirm.png)
