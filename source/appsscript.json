@@ -18,7 +18,7 @@
   "addOns": {
     "common": {
       "name": "Report Phishing",
-      "logoUrl": "https://raw.githubusercontent.com/moin-loginsoft/phishing-logo/main/logo.png",
+      "logoUrl": "https://raw.githubusercontent.com/moin-loginsoft/GoogleAddon/main/logo/vmray-logo.png",
       "layoutProperties": {
         "primaryColor": "#D32F2F"
       }
